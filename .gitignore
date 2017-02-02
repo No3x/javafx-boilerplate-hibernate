@@ -39,3 +39,4 @@ bin/
 *.db
 
 /*log*
+out/
